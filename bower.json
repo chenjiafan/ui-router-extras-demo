@@ -1,0 +1,23 @@
+{
+  "name": "ui-router-extras-demo",
+  "homepage": "https://github.com/chenjiafan/ui-router-extras-demo",
+  "description": "ui-router-extras-demo",
+  "main": "index.html",
+  "keywords": [
+    "ui-router"
+  ],
+  "authors": [
+    "chenjiafan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ui-router-extras": "^0.1.2"
+  }
+}
